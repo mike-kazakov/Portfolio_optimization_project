@@ -15,4 +15,5 @@ Compelling patterns can be drawn from the figure below:
 1. The more often the weights are changed, the higher on average excess return is. The difference between rebalancing every 1 month and every 2 months is outstanding.
 2. For frequent weight changes the narrower tangency portfolio window is, the higher average excess return is. For rare weight changes the trend is opposite. For mid-frequent rebalancing the pattern takes parabolic form.
 3. The lowest tangency portfolio window is 32. The reason is that for this dataset covariance matrices for lower windows are not positive-definite, that is why constraints in optimization task are violated.
+
 ![Project Screenshot](images/simulations.png)
