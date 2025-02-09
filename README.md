@@ -21,9 +21,9 @@ Compelling patterns can be drawn from the figure below:
 ### In-sample performance
 Blue line - cumulated returns of optimized portfolio
 
-![Project Screenshot](insample/simulations.png)
+![Project Screenshot](images/insample.png)
 
 ### In-sample performance
 Blue line - cumulated returns of optimized portfolio
 
-![Project Screenshot](outofsample/simulations.png)
+![Project Screenshot](images/outofsample.png)
