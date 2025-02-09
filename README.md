@@ -17,3 +17,5 @@ Compelling patterns can be drawn from the figure below:
 3. The lowest tangency portfolio window is 32. The reason is that for this dataset covariance matrices for lower windows are not positive-definite, that is why constraints in optimization task are violated.
 
 ![Project Screenshot](images/simulations.png)
+
+### In-sample performance
