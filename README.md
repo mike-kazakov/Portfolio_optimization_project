@@ -9,4 +9,6 @@ University project on analyzing stock returns of US healthcare companies and bui
 -  __Frequency of changing the weights__ means how often the weights of assets in portfolio are adjusted (every month, every 12 months, every 60 months, etc.)
 - __Tangency portfolio window__ indicates time interval, which is taken into account in the calculation of the tangency portfolio at each rebalance
 - The optimal parameters are then extraploted on out_of_sample period (2013-2014)
-
+## Graphs
+### Simulations for different frequencies and windows
+![Project Screenshot](images/simulations.png)
